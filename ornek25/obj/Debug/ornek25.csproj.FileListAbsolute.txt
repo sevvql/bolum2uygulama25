@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ornek25\ornek25\bin\Debug\ornek25.exe.config
+C:\Users\User\source\repos\ornek25\ornek25\bin\Debug\ornek25.exe
+C:\Users\User\source\repos\ornek25\ornek25\bin\Debug\ornek25.pdb
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.Form1.resources
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.Properties.Resources.resources
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.exe
+C:\Users\User\source\repos\ornek25\ornek25\obj\Debug\ornek25.pdb
